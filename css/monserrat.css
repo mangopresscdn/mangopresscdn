@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Montserrat;
+    src: url('../fonts/Montserrat-Variable.woff2') format('woff2');
+    font-weight: 400 700;
+    font-display: auto;
+}
+
+html {
+    font-family: Montserrat, sans-serif;
+}
